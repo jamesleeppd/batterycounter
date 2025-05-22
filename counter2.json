@@ -1,4 +1,5 @@
 {
 "startValue": 5,
-"endValue": 100
+"endValue": 1000
+"incrementPerSecond": 20,
 }	
