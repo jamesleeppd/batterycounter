@@ -1,0 +1,8 @@
+{
+  "counter": {
+    "startValue": 100000,
+    "endValue": 100000000,
+    "incrementPerSecond": 20,
+    "startTime": "2025-05-14T14:00:00Z"
+  }
+}
